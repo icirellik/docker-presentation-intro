@@ -1,12 +1,10 @@
-# Containers and Layers
+# Containers and Images
 
-* Images
+* **Images** Make up the static layers that together create a unified view of a container.
 
-    Read Only
+* **Containers** The read/write top layer that is not persisted.
 
-* Containers
-
-    Read Write top layer
+![layers](https://docs.docker.com/engine/userguide/storagedriver/images/container-layers.jpg)
 
 note:
 
