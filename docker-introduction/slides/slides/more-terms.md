@@ -1,7 +1,7 @@
 # More Terms
 
-* Host - The bare metal or virtual machine that will be running containers.
-* Registry - Where you store docker images.
+* Host - The machine that will run containers
+* Registry - Where you store docker images
 * Volume - Provides a way to share or persist data independently of the container's life cycle
 
 note:

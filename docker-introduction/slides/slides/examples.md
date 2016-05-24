@@ -1,11 +1,13 @@
-# Examples of Docker
+# Examples
 
-* Local Development
-* Debugging Production
-* CI in Docker
-* Slides
+* Local development 
+* Reproducing production bugs
+* Continuous delivery
+* This presentation application
 
 note:
+
+So how do I use Docker daily.
 
 - Local Development.
 

@@ -1,1 +1,5 @@
-# Demo Time:
+# Demo Time
+
+note:
+
+docker ps

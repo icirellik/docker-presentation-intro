@@ -1,7 +1,7 @@
 # Basic Terms
 
-* Image - static file system, all except the base image have a parent.
-* Container - A writable instance of an image
+* **Image** - static file system, all except the base image have a parent.
+* **Container** - A writable instance of an image
 * This of an image as a class and a container as a instance of the class.
 * Containers should be ephemeral
 
