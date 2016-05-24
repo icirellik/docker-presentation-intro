@@ -4,7 +4,6 @@
 
 note:
 
-
 Docker nyan cat
 
 docker run -it --rm supertest2014/nyan

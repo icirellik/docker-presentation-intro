@@ -18,9 +18,12 @@ VOLUME – Specify that a directory should be mounted
 
 note:
 
-A Dockerfile is a text file that contains all of the commands a user could call on the command line to assemble an image. This can be used build build systems and other developers to easy create an executable version of an application.
+A Dockerfile is a text file that contains all of the commands a user could call
+on the command line to assemble an image. This can be used build build systems
+and other developers to easy create an executable version of an application.
 
-One cool benefit of a Dockerfile is that it documents you applications build steps.
+One cool benefit of a Dockerfile is that it documents you applications build
+steps.
 
 BUILD Commands
 
