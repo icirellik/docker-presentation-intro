@@ -1,4 +1,4 @@
-# Private Registry
+## Private Registry
 
 * ensures same builds are everywhere.
 * push/pull tagged images

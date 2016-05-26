@@ -1,4 +1,4 @@
-# Examples
+## Examples
 
 * Local development
 * Reproducing production bugs

@@ -1,4 +1,4 @@
-# More Terms
+## More Terms
 
 * Host - The machine that will run containers
 * Registry - Where you store docker images

@@ -1,4 +1,4 @@
-# Containers and Images
+## Containers and Images
 
 * **Images** Make up the static layers that together create a unified view of a container.
 

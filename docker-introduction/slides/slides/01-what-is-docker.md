@@ -1,4 +1,4 @@
-# What is Docker?
+## What is Docker?
 
 * an open platform for developing, deploying and running services with Linux containers
 * full process and file system isolation
@@ -6,15 +6,23 @@
 
 note:
 
-* Open Platform
-* Full isolation
-* Not a VM
-  - More from your hardware.
-  - Faster load times
-* Standardization of deliverable
-  - Shipping is hard
-  - Standardization makes it easier
-  - Leads to orchestration tools
+- Open Platform
+
+- Full isolation
+
+- Standardization of deliverable
+
+- Shipping is hard
+
+- Standardization makes it easier
+
+- Leads to orchestration tools
+
+- Not a VM
+
+- More from your hardware.
+
+- Faster load times
 
 Docker is an open platform that leverages Linux containers to facilitate
 developing, shipping and running of applications. With Docker you can separate

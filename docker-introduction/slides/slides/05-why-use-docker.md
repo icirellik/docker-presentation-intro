@@ -1,4 +1,4 @@
-# Why Use Docker
+## Why Use Docker
 
 * Faster delivery of your applications
 * Deploying and scaling more easily

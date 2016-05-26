@@ -1,6 +1,6 @@
-# Docker : An Introduction
-#### Cameron Rollheiser
-#### 24 May 2016
+## Docker : An Introduction
+###### Cameron Rollheiser
+###### 24 May 2016
 
 note:
 

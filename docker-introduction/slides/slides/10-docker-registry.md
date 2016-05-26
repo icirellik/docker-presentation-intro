@@ -1,4 +1,4 @@
-# Docker Registry
+## Docker Registry
 
 * Docker Hub: public registry where you can publish anything
 * Open Source: You can run it locally
